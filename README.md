@@ -27,6 +27,14 @@ I build intelligent web products—from product architecture and AI integration 
 
 I focus on AI that earns its place inside the product: clear user value, dependable engineering, and a workflow people can actually use.
 
+## Web products I build
+
+| Commerce & business | Content & presence | Platforms & operations | AI-powered experiences |
+|---|---|---|---|
+| Online stores, product catalogues, checkout experiences, service websites, and corporate platforms | Blogs, publishing websites, portfolios, landing pages, news and educational platforms | SaaS products, marketplaces, booking systems, dashboards, admin panels, portals, and custom web applications | AI assistants, semantic search, recommendation systems, automated workflows, lead qualification, and data-driven web tools |
+
+Every product can be tailored from the ground up—from interface and content structure to backend systems, integrations, deployment, performance, and technical SEO.
+
 ## Selected work
 
 ### EstatePilot AI
